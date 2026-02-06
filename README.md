@@ -9,7 +9,7 @@
 It features a custom **State-Based Flow Tracker** that eliminates common false positives (e.g., distinguishing between a legitimate DNS query, a Port Scan, and a DDoS attack).
 
 ## 📸 Dashboard
-![Dashboard Screenshot](screenshots/dashboard_view.png)
+![Dashboard Screenshot](screen/image.png)
 *(Place your screenshot of the "SECURE" green screen here)*
 
 ## 🚀 Key Features
