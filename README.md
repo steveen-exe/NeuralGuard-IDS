@@ -1,4 +1,4 @@
-<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/3a06127d-e89b-448a-84d9-481a126256f9" /># NeuralGuard: Hybrid AI-Powered IDS for IoT Networks
+
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![ML](https://img.shields.io/badge/AI-RandomForest%20%2B%20XGBoost-orange?style=for-the-badge)
