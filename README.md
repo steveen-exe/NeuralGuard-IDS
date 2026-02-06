@@ -1,4 +1,4 @@
-# NeuralGuard: Hybrid AI-Powered IDS for IoT Networks
+<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/3a06127d-e89b-448a-84d9-481a126256f9" /># NeuralGuard: Hybrid AI-Powered IDS for IoT Networks
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![ML](https://img.shields.io/badge/AI-RandomForest%20%2B%20XGBoost-orange?style=for-the-badge)
@@ -9,8 +9,8 @@
 It features a custom **State-Based Flow Tracker** that eliminates common false positives (e.g., distinguishing between a legitimate DNS query, a Port Scan, and a DDoS attack).
 
 ## 📸 Dashboard
-![Dashboard Screenshot](screen/image.png)
-*(Place your screenshot of the "SECURE" green screen here)*
+<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/1785bd51-89de-422e-bd94-c6b67105cb3a" />
+
 
 ## 🚀 Key Features
 
