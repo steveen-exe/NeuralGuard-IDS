@@ -23,6 +23,9 @@ It features a custom **State-Based Flow Tracker** that eliminates common false p
     * Identifies **Network Sweeps** (Many IPs).
 * **Robustness:** Includes an "Emergency Log-Scaler" to handle unscaled input data without crashing.
 
+## 🛠️ Network Architecture Used:
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d55094e0-9c1f-4e87-968f-4257d5fd0330" />
+
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
